@@ -1,5 +1,7 @@
 # AUXIE-App
 
+[![YouTube](https://img.shields.io/badge/YouTube-Red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GTjuUNxgev4)
+
 ![Auxie 1](https://github.com/franjunoy/AUXIE-App/blob/main/Auxie%201.png)
 
 ![Auxie 2](https://github.com/franjunoy/AUXIE-App/blob/main/Auxie%202.png)
